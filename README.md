@@ -2,72 +2,57 @@
 
 # Hi there 👋, I'm Winston Nguyen!
 
-**🌱 Software Engineer | Co-founder**  
-**📍 Based in Melbourne, Australia**
+**🚀 Software Engineer | Cloud Enthusiast | Tech Consultant**  
+📍 Melbourne, Australia | 🌱 Building scalable, cloud-native solutions
 
 ---
 
-### 🧑‍💻 **About Me**
-- 💡 Passionate **Software Engineer** with experience building scalable, user-centric applications.
-- 🚀 Co-founded **Grow Plante** and launched an eCommerce platform, achieving **2,000+ user sign-ups**.
-- ☁️ Skilled in modern technologies like **React, FastAPI, AWS**, and CI/CD solutions.
-- 🌟 Aspiring to grow as a versatile technical lead focusing on **system architecture** and **cloud-first strategies**.
+### 🌟 **About Me**
+
+I’m a passionate software engineer who loves building user-centric, scalable applications that solve real-world problems. From crafting eCommerce platforms to optimizing backend systems, I thrive on turning ideas into reality.
+
+- 🌱 **Co-founder of Grow Plante**: Launched a sustainable eCommerce platform with 2,000+ user signups.  
+- ☁️ **Cloud Specialist**: Experience deploying apps and APIs using AWS and modern CI/CD tools.  
+- 🛠️ **Full-Stack Developer**: Skilled in **React**, **FastAPI**, **NestJS**, and **Terraform** for infrastructure automation.  
+- 🎓 **Computer Science Graduate**: Swinburne University of Technology.
 
 ---
 
-### 💻 **Skills**
-**Frontend:**  
-`React` · `React Native` · `Next.js` · `Flutter` · `Angular`  
+### 🚀 **What I Do**
 
-**Backend:**  
-`ASP.NET` · `NestJS` · `Express.js` · `Django` · `FastAPI`  
+- **🛠️ Build Full-Stack Applications**:  
+   From sleek, responsive UIs with **React** and **Next.js** to robust backends with **FastAPI**, **NestJS**, and **ASP.NET**
 
-**Languages:**  
-`TypeScript` · `JavaScript` · `Python` · `C#` · `Kotlin`  
+- **☁️ Cloud Infrastructure**:  
+   Automating deployments and building reliable systems using **AWS, Terraform**, and **CI/CD pipelines**.
 
-**Styling Frameworks:**  
-`TailwindCSS` · `Bootstrap` · `SCSS/SASS`  
+- **📱 Mobile Development**:  
+   Crafting cross-platform apps with **React Native** and delivering them seamlessly with **Firebase**.
 
-**Databases:**  
-`MySQL` · `PostgreSQL` · `Supabase` · `MongoDB`  
-
-**Cloud Platforms & Tools:**  
-`AWS` · `GCP` · `Azure` · `Terraform` · `GitHub Actions` · `Bitbucket Pipelines`  
-
-**Testing:**  
-`Jest` · `React Testing Library` · `xUnit` · `Cypress`
-
---- 
-
-### 🛠️ **Experience**
-
-#### **👨‍💻 Software Engineer, Co-founder | Grow Plante Pty Ltd** _(Sep 2023 - Present)_  
-- Built and maintained a scalable **eCommerce platform** with **Next.js, React, NestJS**, and **Sanity CMS**.  
-- Designed secure **payment functionality** with **Stripe** and **Ezidebit** (FastAPI).  
-- Developed cross-platform mobile apps with **React Native**, distributed via Firebase.  
-- Managed **CI/CD workflows** using GitHub Actions, deploying APIs on **AWS** and **Vercel**.  
-
-#### **👨‍💻 Software Engineer | Infostatus Pty Ltd** _(Mar 2023 - Nov 2023)_  
-- Built the **backend** with **ASP.NET** and the **frontend** with **Angular** for an investment platform.  
-- Delivered a responsive communication app using **React Native** and **TailwindCSS**.  
-- Designed an **AWS cloud migration** with **Terraform**, supporting the company's AWS partnership efforts.
-
-#### **👨‍💻 Frontend Developer | CBuildr** _(Nov 2022 - Feb 2023)_  
-- Led the frontend redevelopment with **React** and **Redux** for improved scalability.  
-- Developed backend APIs with **Django REST** (Python).  
-- Conducted competitive research to deliver enhanced web interfaces, increasing user satisfaction by **90%**.
 ---
 
-### 🌐 **Social Links**
-<p align="left">
+### 🛠️ **Tech Stack**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/CI/CD-000000?style=flat&logo=github-actions&logoColor=white" alt="CI/CD" />
+</p>
+
+---
+
+### 🌐 **Connect With Me**
+<p>
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:winston.la.nguyen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/your-github" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:winston.la.nguyen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -75,6 +60,5 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark" alt="GitHub Stats">
 </p>
