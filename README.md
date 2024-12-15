@@ -1,5 +1,3 @@
-![Header Image](https://your-image-link.com) <!-- Replace with a banner image URL -->
-
 # Hi there 👋, I'm Winston Nguyen!
 
 **🚀 Software Engineer | Cloud Enthusiast | Tech Consultant**  
