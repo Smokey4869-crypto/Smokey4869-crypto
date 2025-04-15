@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Winston Nguyen!
+# Hi there 👋, I'm Minh Nguyen!
 
 **🚀 Software Engineer | Cloud Enthusiast | Tech Consultant**  
 📍 Melbourne, Australia | 🌱 Building scalable, cloud-native solutions
